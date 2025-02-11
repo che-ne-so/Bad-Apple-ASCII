@@ -57,4 +57,4 @@ audio_path = './audio.mp3'
 play_video(video_path, audio_path)
 os.system('cls')
 print("The end")
-time.sleep(5)
+time.sleep(999)
