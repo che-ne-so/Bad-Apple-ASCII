@@ -30,7 +30,7 @@
 
 <h3>Video Playback:</h3>
 <ul>
-  <li>The <code>play_video_ascii()</code> function captures video frames using OpenCV.</li>
+  <li>The <code>play_video()</code> function captures video frames using OpenCV.</li>
   <li>The frames are then converted to grayscale and translated into ASCII art, which is output to the console.</li>
 </ul>
 
