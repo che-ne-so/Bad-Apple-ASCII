@@ -1,6 +1,6 @@
-<h1>ASCII Video Player</h1>
+<h1>Bad Apple ASCII Art</h1>
 
-<p>A simple project to convert Bad Apple video into ASCII art and play audio in sync with the video.</p>
+<p>A project to convert Bad Apple video into ASCII art and play audio in sync with the video.</p>
 
 <h2>Requirements:</h2>
 <ul>
@@ -43,7 +43,7 @@
 
 <h2>How to Run the Project:</h2>
 <ol>
-  <li>Extract the project</li>
+  <li>Extract the project.</li>
   <li>Navigate to the project directory:</li>
   <p>e.g.</p>
   <pre><code>cd C:\Users\user\Downloads\Bad-Apple-ASCII-main</code></pre>
@@ -51,7 +51,7 @@
   <li>Run the Python script using this command:</li>
   <pre><code>python bad_apple.py</code></pre>
 
-  <li>Done</li>
+  <li>Done.</li>
 
 <h2>Notes:</h2>
 <ul>
