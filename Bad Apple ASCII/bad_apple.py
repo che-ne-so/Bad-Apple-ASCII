@@ -56,5 +56,7 @@ audio_path = './audio.mp3'
 # Play the ASCII video with audio
 play_video(video_path, audio_path)
 os.system('cls')
-print("The end")
+print("By IDK")
+time.sleep(1)
+print("GitHub: https://github.com/che-ne-so")
 time.sleep(999)
